@@ -1,0 +1,10 @@
+D:\WORKINGSPACE\PEERI\PROJECTS\LearnOOInterface\LearnOOInterface\LearnOOInterface\obj\Debug\ResolveAssemblyReference.cache
+D:\WORKINGSPACE\PEERI\PROJECTS\LearnOOInterface\LearnOOInterface\LearnOOInterface\bin\Debug\LearnOOInterface.exe
+D:\WORKINGSPACE\PEERI\PROJECTS\LearnOOInterface\LearnOOInterface\LearnOOInterface\bin\Debug\LearnOOInterface.pdb
+D:\WORKINGSPACE\PEERI\PROJECTS\LearnOOInterface\LearnOOInterface\LearnOOInterface\obj\Debug\LearnOOInterface.exe
+D:\WORKINGSPACE\PEERI\PROJECTS\LearnOOInterface\LearnOOInterface\LearnOOInterface\obj\Debug\LearnOOInterface.pdb
+C:\Users\joshuazhao\Documents\Visual Studio 2010\Projects\LearnOOInterface\LearnOOInterface\obj\Debug\LearnOOInterface.exe
+C:\Users\joshuazhao\Documents\Visual Studio 2010\Projects\LearnOOInterface\LearnOOInterface\obj\Debug\LearnOOInterface.pdb
+C:\Users\joshuazhao\Documents\Visual Studio 2010\Projects\LearnOOInterface\LearnOOInterface\bin\Debug\LearnOOInterface.exe
+C:\Users\joshuazhao\Documents\Visual Studio 2010\Projects\LearnOOInterface\LearnOOInterface\bin\Debug\LearnOOInterface.pdb
+C:\Users\joshuazhao\Documents\Visual Studio 2010\Projects\LearnOOInterface\LearnOOInterface\obj\Debug\ResolveAssemblyReference.cache
