@@ -56,6 +56,8 @@
     <Compile Include="AbstractFactoryEx\IBrandEx.cs" />
     <Compile Include="AbstractFactory\AbstractFactoryClient.cs" />
     <Compile Include="AbstractFactory\IFactory.cs" />
+    <Compile Include="Command\DelegateCommand.cs" />
+    <Compile Include="Command\ICommand.cs" />
     <Compile Include="Factory\FactoryVivienneClient.cs" />
     <Compile Include="Factory\IProduct.cs" />
     <Compile Include="ObserverEx\INotifyManager.cs" />
@@ -71,6 +73,7 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="SimpleFactory\SimpleFactoryVivienneClient.cs" />
     <Compile Include="SimpleObject\SimpleObjectVivienneClient.cs" />
+    <Compile Include="Singleton\SingletonPatternClass.cs" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="IoCFactory\" />

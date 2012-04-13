@@ -1,0 +1,14 @@
+D:\working\learnoodesign\TestOODesignPattern\bin\Debug\TestOODesignPattern.dll
+D:\working\learnoodesign\TestOODesignPattern\bin\Debug\TestOODesignPattern.pdb
+D:\working\learnoodesign\TestOODesignPattern\bin\Debug\LearnOOInterface.exe
+D:\working\learnoodesign\TestOODesignPattern\bin\Debug\LearnOOInterface.pdb
+D:\working\learnoodesign\TestOODesignPattern\obj\Debug\ResolveAssemblyReference.cache
+D:\working\learnoodesign\TestOODesignPattern\obj\Debug\TestOODesignPattern.dll
+D:\working\learnoodesign\TestOODesignPattern\obj\Debug\TestOODesignPattern.pdb
+D:\working\learnoodesign\learnoopattern\TestOODesignPattern\bin\Debug\TestOODesignPattern.dll
+D:\working\learnoodesign\learnoopattern\TestOODesignPattern\bin\Debug\TestOODesignPattern.pdb
+D:\working\learnoodesign\learnoopattern\TestOODesignPattern\bin\Debug\LearnOOInterface.exe
+D:\working\learnoodesign\learnoopattern\TestOODesignPattern\bin\Debug\LearnOOInterface.pdb
+D:\working\learnoodesign\learnoopattern\TestOODesignPattern\obj\Debug\ResolveAssemblyReference.cache
+D:\working\learnoodesign\learnoopattern\TestOODesignPattern\obj\Debug\TestOODesignPattern.dll
+D:\working\learnoodesign\learnoopattern\TestOODesignPattern\obj\Debug\TestOODesignPattern.pdb

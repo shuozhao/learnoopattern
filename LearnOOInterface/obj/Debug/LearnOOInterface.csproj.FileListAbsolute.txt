@@ -8,3 +8,8 @@ C:\Users\joshuazhao\Documents\Visual Studio 2010\Projects\LearnOOInterface\Learn
 C:\Users\joshuazhao\Documents\Visual Studio 2010\Projects\LearnOOInterface\LearnOOInterface\bin\Debug\LearnOOInterface.exe
 C:\Users\joshuazhao\Documents\Visual Studio 2010\Projects\LearnOOInterface\LearnOOInterface\bin\Debug\LearnOOInterface.pdb
 C:\Users\joshuazhao\Documents\Visual Studio 2010\Projects\LearnOOInterface\LearnOOInterface\obj\Debug\ResolveAssemblyReference.cache
+D:\working\learnoodesign\learnoopattern\LearnOOInterface\obj\Debug\LearnOOInterface.exe
+D:\working\learnoodesign\learnoopattern\LearnOOInterface\obj\Debug\LearnOOInterface.pdb
+D:\working\learnoodesign\learnoopattern\LearnOOInterface\bin\Debug\LearnOOInterface.exe
+D:\working\learnoodesign\learnoopattern\LearnOOInterface\bin\Debug\LearnOOInterface.pdb
+D:\working\learnoodesign\learnoopattern\LearnOOInterface\obj\Debug\ResolveAssemblyReference.cache
