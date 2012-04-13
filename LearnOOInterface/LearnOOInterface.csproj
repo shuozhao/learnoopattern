@@ -58,6 +58,12 @@
     <Compile Include="AbstractFactory\IFactory.cs" />
     <Compile Include="Command\DelegateCommand.cs" />
     <Compile Include="Command\ICommand.cs" />
+    <Compile Include="Composite\Accessories.cs" />
+    <Compile Include="Composite\BaseComponent.cs" />
+    <Compile Include="Composite\Brand.cs" />
+    <Compile Include="Composite\BrandCompositeManager.cs" />
+    <Compile Include="Composite\IComponent.cs" />
+    <Compile Include="Composite\Product.cs" />
     <Compile Include="Factory\FactoryVivienneClient.cs" />
     <Compile Include="Factory\IProduct.cs" />
     <Compile Include="ObserverEx\INotifyManager.cs" />
@@ -76,7 +82,9 @@
     <Compile Include="Singleton\SingletonPatternClass.cs" />
   </ItemGroup>
   <ItemGroup>
+    <Folder Include="Interpreter\" />
     <Folder Include="IoCFactory\" />
+    <Folder Include="Strategy\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

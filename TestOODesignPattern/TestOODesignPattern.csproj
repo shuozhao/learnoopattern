@@ -41,6 +41,7 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Singleton\TestSingletonPattern.cs" />
     <Compile Include="TestCommandPattern\TestCommandPattern.cs" />
+    <Compile Include="TestComposite\TestIdentifyMap.cs" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="AuthoringTests.txt" />
